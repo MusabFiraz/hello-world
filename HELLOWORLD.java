@@ -4,6 +4,14 @@ public class Hello World
    {
    
       System.out.println("Hello World!");
+      
+      String name = "George Washington";
+      
+      System.out.prinln(name);
+      
+      int age = 24;
+      
+      System.out.println(age);
    
    }
 
